@@ -1,0 +1,6 @@
+c:\users\ezekotiki\documents\visual studio 2015\Projects\FieldGenerator\FieldGenerator\bin\Debug\FieldGenerator.exe.config
+c:\users\ezekotiki\documents\visual studio 2015\Projects\FieldGenerator\FieldGenerator\bin\Debug\FieldGenerator.exe
+c:\users\ezekotiki\documents\visual studio 2015\Projects\FieldGenerator\FieldGenerator\bin\Debug\FieldGenerator.pdb
+c:\users\ezekotiki\documents\visual studio 2015\Projects\FieldGenerator\FieldGenerator\obj\Debug\FieldGenerator.csprojResolveAssemblyReference.cache
+c:\users\ezekotiki\documents\visual studio 2015\Projects\FieldGenerator\FieldGenerator\obj\Debug\FieldGenerator.exe
+c:\users\ezekotiki\documents\visual studio 2015\Projects\FieldGenerator\FieldGenerator\obj\Debug\FieldGenerator.pdb
